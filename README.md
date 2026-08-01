@@ -4,6 +4,7 @@
  
  
  Overview
+
  
 This project delivers a suite of interactive business intelligence dashboards built to analyze e-commerce transaction data and surface actionable insights for stakeholders. Using SQL for data extraction and cleaning, statistical analysis, and Power BI for visualization, the project transforms raw transactional data into clear, decision-ready reporting on sales performance, customer behavior, and profitability.
 
